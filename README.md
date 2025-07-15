@@ -1,6 +1,6 @@
 # Enchantment Splitting
 
-Split enchantments across items
+Hit your enchanted items with a mace to move/split their enchantments!
 
 ## How to use (in-game)
 
